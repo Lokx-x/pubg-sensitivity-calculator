@@ -245,6 +245,19 @@ Use the results as an estimated starting point and verify with your own in-game 
 
 Version 2.2 is a major calculation update. Older v2.1 values may differ, especially for 360° distance, FOV behavior, ADS behavior, and 4:3 conversion.
 
+## Version 2.2.1 Changes
+
+### Added
+
+- Added a Manual button to the web version.
+- The Manual button automatically links to the manual for the selected language.
+
+### Notes
+
+Version 2.2.1 only adds manual navigation.
+
+No calculation logic was changed.
+
 ## License
 
 MIT License
