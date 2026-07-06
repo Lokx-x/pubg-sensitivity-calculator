@@ -33,6 +33,20 @@ This project is focused on PUBG-internal sensitivity conversion first. Cross-gam
 - 繁體中文
 - Русский
 
+## Manuals
+
+Detailed manuals are available in multiple languages.
+
+If you are not sure how to use a specific calculator, please check the manual first.  
+If there is anything you would like to see added, improved, or explained in more detail, please let me know.
+
+- KOR: https://github.com/Lokx-x/pubg-sensitivity-calculator/blob/main/PUBG_Sensitivity_Calculator_Manual_KR_v1_0_Draft.md
+- ENG: https://github.com/Lokx-x/pubg-sensitivity-calculator/blob/main/PUBG_Sensitivity_Calculator_Manual_EN_v1_0.md
+- JPN: https://github.com/Lokx-x/pubg-sensitivity-calculator/blob/main/PUBG_Sensitivity_Calculator_Manual_JA_v1_0.md
+- RUS: https://github.com/Lokx-x/pubg-sensitivity-calculator/blob/main/PUBG_Sensitivity_Calculator_Manual_RU_v1_0.md
+- CHN: https://github.com/Lokx-x/pubg-sensitivity-calculator/blob/main/PUBG_Sensitivity_Calculator_Manual_ZH_CN_v1_0.md
+- TW: https://github.com/Lokx-x/pubg-sensitivity-calculator/blob/main/PUBG_Sensitivity_Calculator_Manual_ZH_TW_v1_0.md
+
 ## Main Features
 
 - PUBG vertical multiplier calculator
