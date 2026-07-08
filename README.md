@@ -258,6 +258,18 @@ Version 2.2.1 only adds manual navigation.
 
 No calculation logic was changed.
 
+## Version 2.2.2 Changes
+
+### Fixed
+
+- Fixed an issue in the web version where the vertical multiplier correction was not being applied correctly in the Resolution Converter for 16:9 ↔ 16:10 conversions.
+- The Excel version was already working correctly; this fix only applies to the HTML/web version.
+
+### Notes
+
+- No calculation logic was changed outside the Resolution Converter display/update bug fix.
+- 360° Distance / Cross-game Converter behavior remains unchanged.
+
 ## License
 
 MIT License
