@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>PUBG Sensitivity Calculator v2.2 | Lokx_x</title>
+<title>PUBG Sensitivity Calculator v2.2.2 | Lokx_x</title>
 <style>
   :root{
     --bg:#f7f8fb; --card:#fff; --line:#222; --grid:#d8deeb; --title:#f2dddd;
@@ -165,7 +165,7 @@
       </table>
     </div>
   </section>
-  <div class="footer">PUBG Sensitivity Calculator v2.2 · Created by Lokx_x · Localization &amp; Web Version by ChatGPT (OpenAI)</div>
+  <div class="footer">PUBG Sensitivity Calculator v2.2.2 · Created by Lokx_x · Localization &amp; Web Version by ChatGPT (OpenAI)</div>
 </main>
 <script>
 const L = {
@@ -178,8 +178,8 @@ const L = {
 };
 const resolutions = [["1280x720","16:9"],["1366x768","16:9"],["1600x900","16:9"],["1920x1080","16:9"],["2560x1080","21:9"],["2560x1440","16:9"],["3440x1440","21:9"],["3840x2160","16:9"],["1728x1080","16:10"],["1920x1200","16:10"],["2560x1600","16:10"],["2304x1440","16:10"],["1440x1080","4:3"],["1920x1440","4:3"]];
 const convs = [
-  {from:"16:9",to:"16:10",kind:"fullscreen",sensDelta:0,op:"*",factor:1.00,extra:"noHorizontalChange"},
-  {from:"16:10",to:"16:9",kind:"scaleBack",sensDelta:0,op:"*",factor:1.00,extra:"noHorizontalChange"},
+  {from:"16:9",to:"16:10",kind:"fullscreen",sensDelta:0,op:"*",factor:1.11,extra:"noHorizontalChange"},
+  {from:"16:10",to:"16:9",kind:"scaleBack",sensDelta:0,op:"/",factor:1.11,extra:"noHorizontalChange"},
   {from:"16:9",to:"21:9",kind:"monitorChange",sensDelta:0,op:"*",factor:0.85},
   {from:"21:9",to:"16:9",kind:"monitorChange",sensDelta:0,op:"/",factor:0.85},
   {from:"16:9",to:"4:3",kind:"fullscreen",sensDelta:3,op:"*",factor:1.166},
